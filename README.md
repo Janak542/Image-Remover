@@ -10,7 +10,7 @@ You need **Python 3.10** or higher installed.
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/janakvaghela542/Image-Remover.git](https://github.com/YOUR_USERNAME/Image-Remover.git)
+    git clone https://github.com/janakvaghela542/Image-Remover.git
     cd Image-Remover
     ```
 
